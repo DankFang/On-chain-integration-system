@@ -9,8 +9,3 @@ Play Integral is an on-chain loyalty card agreement that aims to make merchants 
 ##ERC7527
 Users use NFT to consume at designated stores and use points. When consuming, NFT will be packaged and unpackaged into NFT after 4 hours. Using ERC7527 standard, users will consume ptoken for packaging each time they consume, the more consumption times, the more ptoken will be destroyed each time they consume
 
-<<<<<<< HEAD
-=======
-<img src="https://github.com/DankFang/On-chain-integration-system/tree/main/img" width="100px">
->>>>>>> 332618d2ba805cda1a0406e5aafdcecf73b8a018
-   
