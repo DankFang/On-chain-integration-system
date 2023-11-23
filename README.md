@@ -3,5 +3,5 @@ Play Integral is an on-chain loyalty card agreement that aims to make merchants 
 
 
 ## System Structure
-
+![image](https://github.com/DankFang/On-chain-integration-system/tree/main/img)
    
