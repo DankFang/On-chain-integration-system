@@ -113,7 +113,7 @@ contract ERC7527Agency is IERC7527Agency {
 }
 
 contract ERC7527App is ERC721Enumerable, IERC7527App {
-    constructor() ERC721("ERC7527App", "EA") {}
+    constructor() ERC721("StatusNFT", "SNFT") {}
 
     address payable private _oracle;
 
